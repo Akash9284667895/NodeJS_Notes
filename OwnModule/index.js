@@ -3,6 +3,7 @@ const {add,mul,sub} = require("./operation");
 const validator = require("validator");
 
 console.log(add(5,5));
+
 console.log(sub(10,5));
 console.log(mul(1022,50));
 

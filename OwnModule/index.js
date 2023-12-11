@@ -1,5 +1,5 @@
 const {add,mul,sub} = require("./operation");
-//const chalk = require("chalk");
+const chalk = require("chalk");
 
 const validator = require("validator");
 
